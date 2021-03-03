@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    char name[] = "madam";
+    char name[] = "AKSHIT";
     int k;
     for (k = 0; name[k] != '\0'; k++)
     {
